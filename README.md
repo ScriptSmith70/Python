@@ -1,4 +1,4 @@
-# Python 🐍
+# Python 
 
 This repository contains my **Google Colab notebooks** and experiments as I learn and practice **Python programming**.  
 It serves as a personal learning log, project archive, and a resource for anyone who wants to follow along.
