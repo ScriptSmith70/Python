@@ -28,6 +28,9 @@ The main goal of this repo is to:
 - Build a foundation for future projects in data science, automation, and beyond
 
 ---
+## 🤝 Contributions
+This is primarily my learning space, but if you’d like to suggest improvements or share ideas, feel free to open an **Issue** or **Pull Request**.
 
+---
 
 
